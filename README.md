@@ -145,6 +145,8 @@ Pada teknik ini, metrik evaluasi yang digunakan adalah nilai RMSE saat melakukan
 
 Bisa dilihat dari hasil matriks diatas bisa dilihat pada data training nilai RMSE terus menurun hingga menyentuh dibawah 0.13. Kemudian pada data testing nilai RMSE stabil antara 0.15 dan 0.14. Hal ini merupakan hasil yang baik mengingat sistem rekomendasi yang akurat sangat sulit dibuat.
 
+# Kesimpulan
+Dari segala percobaan tersebut, dapat disimpulkan seluruh goal kita tercapai. Pertama yakni membangun model dengan teknik content based mampu memberikan hingga 10 rekomendasi dengan presisi mencapai 73%. Kemudian yakni dapat membuat sistem rekomendasi dengan tekni collaborative berdasarkan rating pengguna mampu tercapai dengan nilai RMSE dibawah 0.15. Terakhir metrik evaluasi mampu menunjukan hasil yang baik dan memuaskan sesuai dengan target.
 
 # Referensi
 [1]   Fuentes, M.A.R. Atendido, M.L.L. Gecale, J.N, "_STUDENTS’ PERCEPTION ON THE EFFECT OF WATCHING ANIME_", 2018
