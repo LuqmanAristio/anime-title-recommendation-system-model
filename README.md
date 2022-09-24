@@ -143,4 +143,9 @@ Pada teknik ini, metrik evaluasi yang digunakan adalah nilai RMSE saat melakukan
 
 ![s8](https://user-images.githubusercontent.com/96041357/192118707-11d031f0-6b98-4d1f-8bcf-a74cd28cd787.PNG)
 
-Bisa dilihat dari hasil matriks diatas bisa dilihat pada data training nilai RMSE terus menurun hingga menyentuh dibawah 0.13. Kemudian pada data testing nilai RMSE stabil antara 0.15 dan 0.14. Hal ini merupakan hasil yang baik mengingat sistem rekomendasi yang akurat sangat sulit dibuat
+Bisa dilihat dari hasil matriks diatas bisa dilihat pada data training nilai RMSE terus menurun hingga menyentuh dibawah 0.13. Kemudian pada data testing nilai RMSE stabil antara 0.15 dan 0.14. Hal ini merupakan hasil yang baik mengingat sistem rekomendasi yang akurat sangat sulit dibuat.
+
+
+# Referensi
+[1]   Fuentes, M.A.R. Atendido, M.L.L. Gecale, J.N, "_STUDENTS’ PERCEPTION ON THE EFFECT OF WATCHING ANIME_", 2018
+[2]   Yamane, T.,"_Kepopuleran dan Penerimaan Anime Jepang di Indonesia_", vol. 7, no. 1, pp. 68-82, Maret 2020
